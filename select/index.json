@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ゴースト警告を唄う",
+  "base_artist": "Empty old City",
+  "createdAt": "2025-12-30T15:48:55.706861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゴースト警告を唄う",
+      "artist": "Empty old City",
+      "has_synced": true,
+      "path": "select/01_ゴースト警告を唄う_Empty_old_City.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴースト警告を唄う",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_ゴースト警告を唄う_Empty_old_City.txt"
+    }
+  ]
+}
